@@ -7,4 +7,8 @@ Web Developer In Leeds | Works at Shiftcommerce | Ruby on Rails | React
 
 ### Current Side Projects
 
+A Cards againt humanity game 
+
 Static Ecommerce site using Sanity.io: https://github.com/iankduffy/sanity-ecommerce 
+
+Learning to use affinity photo
