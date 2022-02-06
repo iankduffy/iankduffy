@@ -13,4 +13,3 @@ Static Ecommerce site using Sanity.io: https://github.com/iankduffy/sanity-ecomm
 
 Learning to use affinity photo
 
-{5 * 5}
